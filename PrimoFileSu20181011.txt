@@ -1,3 +1,4 @@
 ho fatto commit di un file sul nuovo ramo 20181011
 modifico il file
 aggiungo da 20181011 da gittest
+aggiungo 2 da 20181011 da gittest
