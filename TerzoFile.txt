@@ -1,2 +1,3 @@
+aggiungo riga su 20181011 che crea conflitto 
 aggiungo un file su master
 aggiungo da gitetest su master
