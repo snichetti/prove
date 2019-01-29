@@ -5,3 +5,5 @@ aggiungo modifica su master per creare conflitto
 aggiungo un file su master
 da gitetest su master
 e riaggiungamo qualcosa qui
+
+modifico da it02
