@@ -11,3 +11,5 @@ spero ultima modifica su 20181011
 aggiunto in gittest2 master
 aggiunta seconda in gittest2 master
 modifico da develop
+modifico da it02
+rimodifico da it02
