@@ -7,3 +7,4 @@ da gitetest su master
 e riaggiungamo qualcosa qui
 
 modifico da it02
+modifico da long3
